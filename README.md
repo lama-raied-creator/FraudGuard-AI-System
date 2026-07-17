@@ -1,20 +1,85 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# FraudGuard AI
 
-# Run and deploy your AI Studio app
+> Generative AI-powered Financial Fraud Detection System
 
-This contains everything you need to run your app locally.
+FraudGuard AI is a web-based prototype developed for the **AMAD Hackathon** to help financial institutions detect suspicious transactions using **Generative AI**.
 
-View your app in AI Studio: https://ai.studio/apps/820f166c-885f-43c1-9161-81be066ae362
+The system analyzes transaction data, customer behavior, device information, and risk indicators using **Gemini API**, then generates a clear explanation of the detected risk, recommended actions, and automatically updates reports, alerts, fraud cases, notifications, and the dashboard.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🌐 Live Demo
 
+🌍 **Website** [FraudGuard AI](https://fraudguard-ai-system.ai.studio/)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🎥 **Demo Video**[Watch Demo Video](https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2F0577B95BEBA2342C%21s0248ee25d6034941b4d7fa0f36751c10%3Fithint%3Dvideo%26migratedtospo%3Dtrue&cid=0577B95BEBA2342C&id=0577B95BEBA2342C%21s0248ee25d6034941b4d7fa0f36751c10&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy8wNTc3Yjk1YmViYTIzNDJjL0lRQWw3a2dDQTlaQlNiVFgtZzgyZFJ3UUFUSWYxcWxqb1d2ZmVScXFiRlFhV05v&v=photos)
+
+---
+
+## ✨ Features
+
+- AI-powered transaction analysis
+- Fraud risk scoring
+- AI-generated fraud explanation
+- Smart recommendations
+- Automatic reports
+- Fraud case management
+- Alerts & notifications
+- Interactive dashboard
+- Arabic & English interface
+
+---
+
+## 🛠 Technologies
+
+- Google AI Studio
+- Gemini API
+- React
+- TypeScript
+- Express
+- Tailwind CSS
+- CSV Dataset
+- Prompt Engineering
+
+---
+
+## 📊 Data
+
+The project uses a synthetic CSV dataset containing **500 realistic financial transactions** representing normal, suspicious, and high-risk scenarios while preserving customer privacy.
+
+---
+
+## 🎯 Project Goal
+
+To assist financial institutions in detecting suspicious transactions faster by combining Generative AI with an interactive banking dashboard that improves transparency and supports decision-making.
+
+---
+
+## 📌 Project Status
+
+✅ MVP Completed
+
+Current version includes:
+
+- Transaction Analysis
+- Dashboard
+- Reports
+- Alerts
+- Fraud Cases
+- Notifications
+- AI Assistant
+- Arabic & English Support
+
+---
+
+## 👩‍💻 Developer
+
+**Lama Raied Alghamdi**
+
+Individual Project – Team Marsad
+
+---
+
+## 📄 License
+
+This project was developed for educational and hackathon purposes.
