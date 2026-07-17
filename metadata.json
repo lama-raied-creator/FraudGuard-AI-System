@@ -1,0 +1,6 @@
+{
+  "name": "FraudGuard AI System",
+  "description": "An intelligent enterprise-grade fraud detection dashboard featuring executive metrics, transaction analysis, real-time alerts feed, and AI analysis reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
