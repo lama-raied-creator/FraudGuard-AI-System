@@ -83,3 +83,40 @@ Individual Project – Team Marsad
 ## 📄 License
 
 This project was developed for educational and hackathon purposes.
+
+---
+
+# 📸 Project Screenshots
+
+## 🏠 Home Dashboard
+![Home Dashboard](screenshots/Screenshot%202026-07-17%20060119.png)
+
+---
+
+## 📊 Dashboard Analytics
+![Dashboard Analytics](screenshots/Screenshot%202026-07-17%20202458.png)
+
+---
+
+## 🔍 Transaction Analysis
+![Transaction Analysis](screenshots/Screenshot%202026-07-17%20202607.png)
+
+---
+
+## 💳 Transaction Details
+![Transaction Details](screenshots/Screenshot%202026-07-17%20202640.png)
+
+---
+
+## 📑 Reports
+![Reports](screenshots/Screenshot%202026-07-17%20202720.png)
+
+---
+
+## 🤖 AI Risk Assistant
+![AI Risk Assistant](screenshots/Screenshot%202026-07-17%20202733.png)
+
+---
+
+## ⚙️ Settings
+![Settings](screenshots/Screenshot%202026-07-17%20203014.png)
