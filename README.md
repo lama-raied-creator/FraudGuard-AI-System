@@ -88,13 +88,13 @@ This project was developed for educational and hackathon purposes.
 
 # 📸 Project Screenshots
 
-## 🏠 Home Dashboard
-![Home Dashboard](screenshots/Screenshot%202026-07-17%20060119.png)
+## 🔐 Login Page
+![Login Page](screenshots/Screenshot%202026-07-17%20060119.png)
 
 ---
 
-## 📊 Dashboard Analytics
-![Dashboard Analytics](screenshots/Screenshot%202026-07-17%20202458.png)
+## 📊 Dashboard
+![Dashboard](screenshots/Screenshot%202026-07-17%20202458.png)
 
 ---
 
@@ -103,20 +103,20 @@ This project was developed for educational and hackathon purposes.
 
 ---
 
-## 💳 Transaction Details
-![Transaction Details](screenshots/Screenshot%202026-07-17%20202640.png)
+## 📑 Regulatory Reports
+![Regulatory Reports](screenshots/Screenshot%202026-07-17%20202640.png)
 
 ---
 
-## 📑 Reports
-![Reports](screenshots/Screenshot%202026-07-17%20202720.png)
+## 🚨 Critical Alerts
+![Critical Alerts](screenshots/Screenshot%202026-07-17%20202720.png)
 
 ---
 
-## 🤖 AI Risk Assistant
-![AI Risk Assistant](screenshots/Screenshot%202026-07-17%20202733.png)
+## 🛡️ Fraud Cases
+![Fraud Cases](screenshots/Screenshot%202026-07-17%20202733.png)
 
 ---
 
-## ⚙️ Settings
-![Settings](screenshots/Screenshot%202026-07-17%20203014.png)
+## 🤖 Intelligent Risk Assistant
+![Intelligent Risk Assistant](screenshots/Screenshot%202026-07-17%20203014.png)
